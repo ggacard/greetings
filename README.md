@@ -1,3 +1,3 @@
 # greetings
 
-https://ggcard.github.io/greetings
+https://ggacard.github.io/greetings

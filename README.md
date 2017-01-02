@@ -1,2 +1,3 @@
 # greetings
-GitHub Pages
+
+https://ggcard.github.io/greetings
